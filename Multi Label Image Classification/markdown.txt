@@ -1,3 +1,4 @@
 This is a PyTorch-based deep learning pipeline for multi-label image classification using ResNet18 transfer learning, validation-based threshold tuning, and F1-macro evaluation. 
+train_example.py is used to train model, and test_Callisto.py loads the trained model and evaluates/predicts on a dataset.
 
 I used an AWS EC2 GPU instance to train and test the model. 
