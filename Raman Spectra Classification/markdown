@@ -1,1 +1,1 @@
-1D Convolutional Neural Network (CNN) based model that can accurately sort spectra into 32 chemical classes. train_raman_1dcnn.py is used to train this DL model, and test_raman_1dcnn.py is used to test the same model.
+1D Convolutional Neural Network (CNN) based model that can accurately sort spectra into 32 chemical classes. train_raman_1dcnn.py is used to train this DL model, and test_raman_1dcnn.py is used to test the same model. At this moment, I have not written all the explanations for both of these codes.  
