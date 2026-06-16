@@ -1,3 +1,3 @@
-This is a PyTorch-based deep learning image multi-label classification training pipeline using ResNet18 transfer learning, validation-based threshold tuning, and F1-macro evaluation. 
+This is a PyTorch-based deep learning pipeline for multi-label image classification using ResNet18 transfer learning, validation-based threshold tuning, and F1-macro evaluation. 
 
 I used an AWS EC2 GPU instance to train and test the model. 
